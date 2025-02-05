@@ -1,0 +1,40 @@
+Jeremy Hogan, un abogado especializado en el caso judicial de Ripple contra la
+ Comisión de Bolsa y Valores (SEC) compartió algunos pensamientos sobre la 
+ criptomoneda XRP como activo de reserva estratégica. Aunque no mencionó qué necesidad
+  específica podría tener el Gobierno Federal de la criptomoneda, señaló que esta posee
+   un atributo que la hace una opción atractiva: su centralización. 
+   Según Hogan, el gobierno federal de los Estados Unidos podría estar analizando 
+el escenario de las reservas estratégicas de una forma muy distinta a como lo hacen 
+los usuarios de criptomonedas, quienes se preocupan por variables como 
+descentralización, suministro y otros aspectos de economía de tokens. a actitud 
+del gobierno respecto a esta reserva estratégica, por el contrario, sería pragmática. 
+Estaría influenciada por el beneficio o cobertura que determinado activo pueda 
+reportarle al gobierno frente a una contingencia geopolítica mundial. Y tal vez, 
+sólo tal vez, el gobierno de los EE. UU. tenga una mayor comprensión de los eventos 
+geopolíticos que harían necesaria la necesidad de tener un depósito de XRP en el 
+futuro que el entusiasta de Bitcoin (), comentó Hogan. Este beneficio o cobertura
+proveído al gobierno por XRP puede ser intrínseco. Por ejemplo, XRPL, la red nativa 
+de la criptomoneda, podría fungir como una contabilidad distribuida digital, mediante 
+la cual el gobierno pueda comerciar con criptomonedas a escala nacional 
+e internacional. En algún caso, una solución así podría serle útil al gobierno federal, 
+y se estima que la red de XRP podría ser la ganadora, debido a la cercanía de su CEO,
+Brad Garlinghouse, con Donald Trump, como reportó CriptoNoticias. 
+Pero los motivos extrínsecos, justamente la clase de motivos a los que apeló el abogado
+Jeremy Hogan para opositar a XRP como activo de reserva estratégica, resultan más 
+interesantes. XRP podría funcionar como un activo estratégicamente confiscable, 
+lo mismo que el oro durante la incautación de 1933, producto de una orden orden 
+ejecutiva de Franklin D. Roosevelt, presidente de los Estados Unidos, que prohibía a 
+los ciudadanos estadounidenses poseer oro en forma de monedas, lingotes o certificados. 
+Aunque Jeremy Hogan no afirma que el gobierno estadounidense esté considerando 
+factualmente estas medidas, sí sugiere que su proceso de toma de decisiones sobre 
+una reserva puede estar guiado por razones estratégicas poco convencionales. 
+¿El gobierno puede beneficiarse más de XRP que de bitcoin? Como reportó 
+CriptoNoticias, Ripple controla cerca del 37% del suministro total de XRP al 
+momento de la redacción. Este suministro está almacenado en escrows creados y 
+resguardados por Ripple, que tienen la finalidad de dosificar su despliegue en 
+el mercado. La cantidad de criptomonedas en escrows controlados por una misma 
+entidad hacen de XRP un activo ideal para la confiscación, también porque Ripple es 
+una empresa claramente identificable. Una reserva estratégica en bitcoin (BTC) no 
+tendría estas ventajas, para empezar porque su sistema de nodos es no permisionado 
+y libre mientras, el de XRPL funciona como una red con una lista de nodos única 
+que exige permisos, como reportó CriptoNoticias.
